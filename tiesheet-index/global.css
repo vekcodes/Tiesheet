@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font: "Be Vietnam Pro";
+
+  /* font sizes */
+  --font-size: 48px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-red: #ff2d2d;
+  --color-darkslategray: #403e3e;
+
+  /* border radiuses */
+  --br-10xl: 29px;
+}
